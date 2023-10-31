@@ -57,7 +57,7 @@
 ![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/b150f040-fe7b-41c2-b46a-0048c1400e84)
 ![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/3f62bc9b-011a-4755-872c-6eefcb963aba)
 
-
+Тоже самое проделываем с остальными логическими операциями.
 
 ### 2) AND (Логическое умножение(И)):
 - Таблица истинности:
@@ -69,6 +69,11 @@
 | 1 | 0 | 0 |
 | 1 | 1 | 1 |
 
+Перцептрон обучается в среднем через 5 поколений.
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/23f41719-6c6f-4f23-88a3-207a51ec0f0a)
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/1977fe05-aeb6-4cd0-a7ad-732d29aee432)
+
+
 ### 3) NAND (Инвертированное Логическое умножение(НЕ И)):
 - Таблица истиснности:
  
@@ -78,6 +83,11 @@
 | 0 | 1 | 1 |
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
+
+Перцептрон обучается в среднем через 5-6 поколений.
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/0f6ac575-f781-479d-afcf-6010dfa71990)
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/add48564-d8bf-4642-8ff6-fb5226d04d0e)
+
 
 ### 4) XOR (Исключающая Логическая сумма((ИЛИ) и (НЕ И))):
 - Таблица истинности:
@@ -89,6 +99,9 @@
 | 1 | 0 | 1 |
 | 1 | 1 | 0 |
 
+Не зависимо от количества поколений перцептрон так и не смог обучиться.
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/807dd102-350f-4d19-9b78-0d5e5872b74d)
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/872877d4-c075-427c-83a7-5d917de32ded)
 
 
 ## Задание 2
