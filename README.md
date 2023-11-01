@@ -125,7 +125,7 @@
 
 Сцена до:
 
-![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/d741ebdc-3ab6-4690-802d-f5a26a1aaba4)
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/9581cfee-f938-4071-8dbb-afab7a01302f)
 
 
 Сцена OR:
