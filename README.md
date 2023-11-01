@@ -128,24 +128,24 @@
 ![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/d741ebdc-3ab6-4690-802d-f5a26a1aaba4)
 
 
-Сцена AND:
-
-![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/e1ec1299-7808-453b-b39b-dcccae9d6cbc)
-
-
 Сцена OR:
 
-![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/d3ff5ba0-a225-4136-bf50-576d481855f3)
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/25256383-c73f-4d56-a38f-f25e61718f27)
+
+
+Сцена AND:
+
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/3f59573f-1cca-49b2-9a1c-d5cbeed9ca5d)
 
 
 Сцена NAND:
 
-![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/db16820a-cf89-4a86-bd17-478a4212612e)
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/9259da4c-1887-4aa6-958d-f4e4922aa1b1)
 
 
 Сцена XOR:
 
-![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/7fcc714f-d05d-4ae4-a590-0d4ab59efd1f)
+![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/af9bc971-e14c-4848-80bb-6866262d3f56)
 
 ## Выводы
 - В ходе лабораторной работы я познакомилась с перцептроном, научилась работать с ним в Unity на примере простейших логических операций (AND, OR, NAND, XOR), реализовала визуализацию этих логических операций с помощью кубиков.
