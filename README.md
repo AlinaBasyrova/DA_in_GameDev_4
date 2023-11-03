@@ -143,7 +143,7 @@
 ![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/9259da4c-1887-4aa6-958d-f4e4922aa1b1)
 
 
-Сцена XOR:
+Сцена XOR в теории, на приктике при спользовании перцептрона результат рандомный:
 
 ![image](https://github.com/AlinaBasyrova/DA_in_GameDev_4/assets/129521982/af9bc971-e14c-4848-80bb-6866262d3f56)
 
