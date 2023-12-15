@@ -154,7 +154,7 @@
 | Plugin | README |
 | ------ | ------ |
 | GitHub | [plugins/github/README.md][PlGh] |
-| Visual Studio| [plugins/visualstudio/README.md][PlGh] |
+| VS Code | [plugins/vscode/README.md][PlGh] |
 | Unity | [plugins/unity/README.md][PlMe] |
 
 ## Powered by
